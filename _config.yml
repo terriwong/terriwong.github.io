@@ -12,7 +12,7 @@ description: # this means to ignore newlines until "baseurl:"
   Hackbright Journey happening in San Francisco. 
   A Cognitive Branding Designer evolving to Software Engineer. 
   Design, Python, HCI.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://terriwong.github.io" # the base hostname & protocol for your site
 twitter_username: terriwonglee
 github_username:  terriwong
