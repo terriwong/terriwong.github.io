@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Hackbright Journey
+title: Design Dev 1815
 email: terriwmj@gmail.com
 description: # this means to ignore newlines until "baseurl:"
-  Hackbright Journey happening in San Francisco. 
-  A Cognitive Branding Designer evolving to Software Engineer. 
-  Design, Python, HCI.
+  200 years later, journey starts from Hackbright San Francisco. 
+  From a Cognitive Branding Designer to Software Engineer. 
+  Design, Python, HCI. Woman who codes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://terriwong.github.io" # the base hostname & protocol for your site
 twitter_username: terriwonglee
